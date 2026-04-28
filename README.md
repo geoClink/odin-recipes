@@ -5,7 +5,7 @@ A basic recipe website built with HTML as part of The Odin Project Foundations c
 ## Live Demo
 
 [View on GitHub Pages](https://geoclink.github.io/odin-recipes/
-) ← add your link here
+)
 
 ## Features
 
